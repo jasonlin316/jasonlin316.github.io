@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yi-Chien Lin</title>
-    <link>https://jasonlin316.github.io/</link>
-      <atom:link href="https://jasonlin316.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yi-Chien Lin</description>
+    <title>Projects | Yi-Chien Lin</title>
+    <link>https://jasonlin316.github.io/project/</link>
+      <atom:link href="https://jasonlin316.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2020 11:57:17 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Yi-Chien Lin</title>
-      <link>https://jasonlin316.github.io/</link>
+      <title>Projects</title>
+      <link>https://jasonlin316.github.io/project/</link>
     </image>
     
     <item>
