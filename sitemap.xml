@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://jasonlin316.github.io/</loc>
-    <lastmod>2020-04-13T12:18:17+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jasonlin316.github.io/tags/hardware-accelerator/</loc>
     <lastmod>2020-04-13T12:11:01+08:00</lastmod>
   </url>
@@ -50,6 +45,16 @@
   <url>
     <loc>https://jasonlin316.github.io/project/taped-out-risc-v-cpu/</loc>
     <lastmod>2020-04-13T11:57:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonlin316.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonlin316.github.io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>

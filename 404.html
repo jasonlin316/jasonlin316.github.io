@@ -70,8 +70,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
 
     
 
@@ -206,6 +204,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163491738-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-163491738-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -223,16 +259,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yi-Chien Lin">
   <meta property="og:url" content="https://jasonlin316.github.io/404.html">
   <meta property="og:title" content="404 Page not found | Yi-Chien Lin">
-  <meta property="og:description" content="Incoming ECE PhD Student"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
-  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Incoming ECE PhD Student"><meta property="og:image" content="https://jasonlin316.github.io/img/header.png">
+  <meta property="twitter:image" content="https://jasonlin316.github.io/img/header.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -539,6 +574,8 @@
     
       <li><a href="/project/taped-out-risc-v-cpu/">Taped-Out RISC-V CPU</a></li>
     
+      <li><a href="/privacy/">Privacy Policy</a></li>
+    
   </ul>
   
 
@@ -567,8 +604,6 @@
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -656,6 +691,13 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+  </p>
   
 
   <p class="powered-by">
