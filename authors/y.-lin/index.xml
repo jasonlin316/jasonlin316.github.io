@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Y. Lin** | Yi-Chien Lin</title>
+    <link>https://jasonlin316.github.io/authors/y.-lin/</link>
+      <atom:link href="https://jasonlin316.github.io/authors/y.-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Y. Lin**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jasonlin316.github.io/img/header.png</url>
+      <title>**Y. Lin**</title>
+      <link>https://jasonlin316.github.io/authors/y.-lin/</link>
+    </image>
+    
+    <item>
+      <title>A Memory-Efficient Accelerator for DNA Sequence Alignment with Two-Piece Affine Gap Tracebacks</title>
+      <link>https://jasonlin316.github.io/publication/9181243/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jasonlin316.github.io/publication/9181243/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
