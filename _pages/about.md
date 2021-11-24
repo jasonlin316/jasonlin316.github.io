@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "News"
+title: "Welcome to my home page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,5 +15,6 @@ I finished my undergraduate study in National Taiwan University (NTU), majored i
 
 Latest News
 ======
+### 11.23.2021
 Our work on a framework for generating GNN training accelerator has been accepted at FPGA 2022!
 
