@@ -8,33 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
+> PDF version of my CV can be find [here](/files/cv.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in EE, University of Southern California, 2020 - Present
+* B.S. in EE, National Taiwan University, 2016 - 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Teaching Assistant
+  * EE457 Computer System Organization (Fall 2021)
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Electrical Engineering R&D Intern at Commercial Notebook Team
+  * Developed a software that could enhance efficiency of cursor movement. Idea has been patented by HP.
   
-Skills
+Professional Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reviewer: SC '21, HPEC '21, FPGA '22.
 
 Publications
 ======
@@ -42,18 +34,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* NTUEE Undergraduate Innovation Award: Third Prize
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Verilog/SystemVerilog
+* High-level Synthesis (HLS)
+* C/C++
