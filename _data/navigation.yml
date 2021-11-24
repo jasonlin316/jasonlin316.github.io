@@ -7,7 +7,7 @@ main:
     url: /teaching/    
   
   - title: "CV"
-  url: /cv/
+    url: /cv/
 
   - title: "Portfolio"
     url: /portfolio/
