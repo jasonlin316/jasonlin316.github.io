@@ -2,14 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Professional Experience"
-    url: /teaching/    
   
   - title: "CV"
     url: /cv/
 
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
