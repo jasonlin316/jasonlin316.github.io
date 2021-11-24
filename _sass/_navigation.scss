@@ -371,7 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $darker-gray;
+  color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: $darker-gray;
     }
   }
 
