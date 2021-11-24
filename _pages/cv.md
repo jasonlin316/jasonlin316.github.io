@@ -19,7 +19,6 @@ Work experience
 ======
 * Teaching Assistant
   * EE457 Computer System Organization (Fall 2021)
-  * Supervisor: Professor Git
 
 * Electrical Engineering R&D Intern at Commercial Notebook Team
   * Developed a software that could enhance efficiency of cursor movement. Idea has been patented by HP.
