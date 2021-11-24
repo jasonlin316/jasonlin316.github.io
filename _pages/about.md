@@ -13,8 +13,7 @@ I'm interested in Graph Neural Networks (GNNs), hardware accelerators, and heter
 
 I finished my undergraduate study in National Taiwan University (NTU), majored in electrical engineering. I was also an Electrical Engineering Intern at Hewlett-Packard (HP), Taipei.
 
-Latest News
+Latest News (Nov 23, 2021)
 ======
-### 11.23.2021
-Our work on a framework for generating GNN training accelerator has been accepted at FPGA 2022!
+Our work on a framework for generating GNN training accelerator has been accepted at FPGA 2022. 
 
