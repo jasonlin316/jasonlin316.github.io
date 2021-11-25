@@ -15,4 +15,4 @@ author_profile: true
 
 **Yi-Chien Lin**, Chih-hung Lin, Ling-Yu Wu, Chih-shiuan Lee, ["_Face Orientation-Based Cursor Positioning on Display Screens_"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021145855), US Patent WO/2021/145855, 2021
 
-Jing-Ping Wu, **Yi-Chien Lin**, Ying-Wei Wu, Shih-Wei Hsieh, Ching-Hsuan Tai, and Yi-Chang Lu., ["_A Memory-Efficient Accelerator for DNA Sequence Alignment with Two-Piece Affine Gap Tracebacks,_"](https://ieeexplore.ieee.org/abstract/document/9401771/), 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
+Jing-Ping Wu, **Yi-Chien Lin**, Ying-Wei Wu, Shih-Wei Hsieh, Ching-Hsuan Tai, and Yi-Chang Lu., ["_A Memory-Efficient Accelerator for DNA Sequence Alignment with Two-Piece Affine Gap Tracebacks,_"](https://ieeexplore.ieee.org/abstract/document/9401771/), IEEE International Symposium on Circuits and Systems (ISCAS), 2021
