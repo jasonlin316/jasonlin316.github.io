@@ -8,30 +8,24 @@ redirect_from:
 ---
 
 {% include base_path %}
-> PDF version of my CV can be find [here](/files/cv.pdf)
+> PDF version of my CV can be found [here](/files/cv.pdf).
 
 Education
 ======
 * Ph.D in EE, University of Southern California, 2020 - Present
 * B.S. in EE, National Taiwan University, 2016 - 2020
 
-Work experience
+Work Experience
 ======
 * Teaching Assistant
   * EE457 Computer System Organization (Fall 2021)
 
 * Electrical Engineering R&D Intern at Commercial Notebook Team
-  * Developed a software that could enhance efficiency of cursor movement. Idea has been patented by HP.
+  * Developed a software that could enhance efficiency of cursor movement, the work has been patented by HP.
   
-Professional Experiences
+Professional Experience
 ======
 * Reviewer: SC '21, HPEC '21, FPGA '22.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Awards
 ======
