@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 header:
-  teaser : "/image/teaser.png"
+  teaser : /image/teaser.png
 redirect_from:
   - /resume
 ---
