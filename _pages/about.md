@@ -3,6 +3,8 @@ permalink: /
 title: "Welcome to my home page"
 excerpt: "About me"
 author_profile: true
+header:
+  teaser : "teaser.png"
 redirect_from: 
   - /about/
   - /about.html
