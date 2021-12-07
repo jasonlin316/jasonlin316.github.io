@@ -8,6 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yi-Chien Lin"
+logo                     : "/images/logo.png"
+masthead_title           : "Home"
 title_separator          : "-"
 name                     : &name "Yi-Chien Lin"
 description              : &description "personal description"
@@ -47,6 +49,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
@@ -93,7 +96,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "194564724@N08"
   facebook         :
   foursquare       :
   github           : "jasonlin316"
