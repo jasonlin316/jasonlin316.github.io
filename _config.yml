@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yi-Chien Lin"
-logo                     : "/images/logo.png"
+logo                     : "logo.png"
 masthead_title           : "Home"
 title_separator          : "-"
 name                     : &name "Yi-Chien Lin"
@@ -16,7 +16,7 @@ description              : &description "personal description"
 url                      : https://jasonlin316.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonlin316.github.io"
-teaser                   : "/images/teaser.png"
+teaser                   : "teaser.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -96,7 +96,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "194564724@N08"
+  flickr           : "194564724@N08/albums"
   facebook         :
   foursquare       :
   github           : "jasonlin316"
