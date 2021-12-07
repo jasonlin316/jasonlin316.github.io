@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, "_GCN Inference Acceleration using High-Level Synthesis_", IEEE High Performance Extreme Computing Conference (HPEC), 2021
+**Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_GCN Inference Acceleration using High-Level Synthesis_"](https://ieeexplore.ieee.org/document/9622801), IEEE High Performance Extreme Computing Conference (HPEC), 2021
 
 **Yi-Chien Lin**, Chih-hung Lin, Ling-Yu Wu, Chih-shiuan Lee, ["_Face Orientation-Based Cursor Positioning on Display Screens_"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021145855), US Patent WO/2021/145855, 2021
 
