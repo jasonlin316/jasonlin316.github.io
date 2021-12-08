@@ -11,7 +11,7 @@ title                    : "Home"
 logo                     : "logo.png"
 title_separator          : "-"
 name                     : &name "Yi-Chien Lin"
-description              : &description "personal description"
+description              : &description "Jason's Homepage"
 url                      : https://jasonlin316.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonlin316.github.io"
@@ -64,11 +64,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "teaser.png"
+og_image                 :  "/image/teaser.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Person" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yi-Chien Lin"
   avatar           : "profile.jpg"
-  bio              : "You can call me Jason."
+  bio              : "You can call me Jason"
   location         : 
   employer         :
   pubmed           : 
