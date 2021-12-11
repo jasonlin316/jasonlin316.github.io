@@ -19,5 +19,5 @@ A 32-point pipelined Fast Fourier Transform processor. The design is based on ra
 
 [Systolic Array for Smith-Waterman](https://github.com/jasonlin316/Systolic-Array-for-Smith-Waterman)
 ========
-Acceleration of Smith-Waterman, a dynamic programming algorithm for performing local sequence alignment. Reduce complexity from O(mn) to O(m+n). 
+Acceleration of Smith-Waterman, a dynamic programming algorithm for performing local sequence alignment. Reduce complexity from O(mn) to O(m+n).  
 ![Explain](/images/systolic.gif)
