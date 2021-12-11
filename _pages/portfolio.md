@@ -16,3 +16,8 @@ This project implements a RISC-V CPU, from behavior level (RTL) to tape-out.
 ========
 A 32-point pipelined Fast Fourier Transform processor. The design is based on radix2-DIF(decimation-in-frequency) algorithm with average SNR = 58.76.
 ![Arch](/images/fft.png)
+
+[Systolic Array for Smith-Waterman](https://github.com/jasonlin316/Systolic-Array-for-Smith-Waterman)
+========
+Acceleration of Smith-Waterman, a dynamic programming algorithm for performing local sequence alignment. Reduce complexity from O(mn) to O(m+n). 
+![Explain](/images/systolic.gif)
