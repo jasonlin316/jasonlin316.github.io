@@ -27,7 +27,7 @@ Research Experience
 
 Work Experience/ Services
 ======
-* Reviewer: SC '21, HPEC '21, FPGA '22.
+* Reviewer: FPGA '22, SC '21, HPEC '21.
 
 * Teaching Assistant
   * EE451 Parallel and Distributed Computation (Spring 2022)
@@ -37,7 +37,7 @@ Work Experience/ Services
 
 Awards
 ======
-* 2020 Viterbi School of Engineering Fellowship
+* 2020 H
 * 2019 NTUEE Undergraduate Innovation Award: Third Prize
 
 Skills
