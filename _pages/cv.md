@@ -37,7 +37,7 @@ Work Experience/ Services
 
 Awards
 ======
-* 2020 H
+* 2020 Viterbi School of Engineering Fellowship
 * 2019 NTUEE Undergraduate Innovation Award: Third Prize
 
 Skills
