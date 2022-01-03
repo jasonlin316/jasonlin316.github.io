@@ -77,14 +77,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-HZSSSRNJ2G"
 
 
 # Site Author
 author:
   name             : "Yi-Chien Lin"
   avatar           : "profile.jpg"
-  bio              : "You can call me Jason"
+  bio              : "Just call me Jason."
   location         : 
   employer         :
   pubmed           : 
