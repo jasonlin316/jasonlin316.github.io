@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform_"](https://arxiv.org/abs/2112.11684), International Symposium on Field-Programmable Gate Arrays (FPGA), 2022
+**Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform_"](https://dl.acm.org/doi/10.1145/3490422.3502359), International Symposium on Field-Programmable Gate Arrays (FPGA), 2022
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_GCN Inference Acceleration using High-Level Synthesis_"](https://ieeexplore.ieee.org/document/9622801), IEEE High Performance Extreme Computing Conference (HPEC), 2021
 

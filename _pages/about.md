@@ -17,5 +17,5 @@ I finished my undergraduate study in National Taiwan University (NTU), majored i
 
 Latest News 
 ======
-**Nov 23, 2021**: Our work on a framework for generating GNN training accelerator has been accepted at FPGA 2022. 
+**Nov 23, 2021**: Our work HP-GNN have been accepted at FPGA 2022. 
 
