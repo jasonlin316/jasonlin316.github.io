@@ -17,5 +17,5 @@ I finished my undergraduate study in National Taiwan University (NTU), majored i
 
 Latest News 
 ======
-**Nov 23, 2021**: Our work HP-GNN have been accepted at FPGA 2022. 
+**Nov 23, 2021**: Our work [HP-GNN](https://dl.acm.org/doi/10.1145/3490422.3502359) has been accepted to ACM FPGA 2022. 
 
