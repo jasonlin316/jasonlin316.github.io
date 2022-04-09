@@ -27,7 +27,7 @@ Research Experience
 
 Work Experience/ Services
 ======
-* Reviewer: FPGA '22, SC '21, HPEC '21.
+* Reviewer: SC '22, TCSVT '22, FPGA '22, SC '21.
 
 * Teaching Assistant
   * EE451 Parallel and Distributed Computation (Spring 2022)
