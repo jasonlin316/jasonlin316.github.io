@@ -15,7 +15,7 @@ I'm interested in Graph Neural Networks (GNNs), hardware accelerators, and heter
 
 In addition to research interests, I'm also interested in video editing and photography. Check out my [vlogs](https://youtube.com/playlist?list=PLOgPUn4uH3eyITpOyIsteJNxuKTRnYb6v) and [photos](https://www.flickr.com/photos/194564724@N08/albums). 
 
-<img src="../images/hobby.png" alt="hobby"/>
+![hobby](../images/hobby.png)
 
 I finished my undergraduate study in National Taiwan University (NTU), majored in electrical engineering. I was also an Electrical Engineering Intern at Hewlett-Packard (HP), Taipei.
 
