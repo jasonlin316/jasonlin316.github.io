@@ -27,10 +27,10 @@ Research Experience
 
 Work Experience/ Services
 ======
-* Reviewer: SC '22, TCSVT '22, FPGA '22, SC '21.
+* Reviewer: FPT'22, SC '22, TCSVT '22, FPGA '22, SC '21.
 
 * Teaching Assistant
-  * EE451 Parallel and Distributed Computation (Spring 2022)
+  * EE451 Parallel and Distributed Computation (Fall 2022, Spring 2022)
   * EE457 Computer System Organization (Fall 2021)
 
 * Electrical Engineering R&D Intern at HP, Taipei (July 2019 - July 2020)
