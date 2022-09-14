@@ -11,13 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Works done during my Ph.D.:
+
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_Accelerating GNN Training on CPU+Multi-FPGA Heterogeneous Platform_"](http://www.carla22.org/pages/schedule/programbyactivity.html#hpc-track), The Latin America High Performance Computing (CARLA), 2022
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform_"](https://dl.acm.org/doi/10.1145/3490422.3502359), International Symposium on Field-Programmable Gate Arrays (FPGA), 2022
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_GCN Inference Acceleration using High-Level Synthesis_"](https://ieeexplore.ieee.org/document/9622801), IEEE High Performance Extreme Computing Conference (HPEC), 2021
 
-## Works done during my undergrad
+## Works done during my undergrad:
 
 **Yi-Chien Lin**, Chih-hung Lin, Ling-Yu Wu, Chih-shiuan Lee, ["_Face Orientation-Based Cursor Positioning on Display Screens_"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021145855), US Patent WO/2021/145855, 2021
 
