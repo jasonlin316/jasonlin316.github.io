@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in EE, University of Southern California, 2020 - Present
+* Ph.D. in EE, University of Southern California, 2020 - Present
 * B.S. in EE, National Taiwan University, 2016 - 2020
 
 Research Experience
@@ -27,7 +27,7 @@ Research Experience
 
 Work Experience/ Services
 ======
-* Reviewer: FPT'22, SC '22, TCSVT '22, FPGA '22, SC '21.
+* Reviewer: CSUR '22, FPT '22, SC '22, TCSVT '22, FPGA '22, SC '21.
 
 * Teaching Assistant
   * EE451 Parallel and Distributed Computation (Fall 2022, Spring 2022)
@@ -45,3 +45,4 @@ Skills
 * Verilog/SystemVerilog
 * High-level Synthesis (HLS)
 * C/C++
+* Parallel Programming (Pthread, MPI, CUDA)
