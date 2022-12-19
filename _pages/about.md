@@ -21,7 +21,7 @@ I finished my undergraduate study in National Taiwan University (NTU), majored i
 
 Latest News 
 ======
-**Dec 18, 2022**: Our work HyScale-GNN has been accepted to IPDPS 2023 during the first round decesion (~10%)!
+**Dec 18, 2022**: Our work HyScale-GNN has been accepted to IPDPS 2023 during the first round decesion (~10% acceptance rate)!
 
 **Sep 14, 2022**: Our work on GNN training acceleration on CPU+Multi-FPGA platform has been accepted to CARLA 2022. 
 
