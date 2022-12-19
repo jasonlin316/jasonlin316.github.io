@@ -17,7 +17,7 @@ In addition to research interests, I'm also interested in video editing and phot
 
 ![hobby](../images/hobby.png)
 
-I finished my undergraduate study in National Taiwan University (NTU), majored in Electrical Engineering. I was also an Electrical Engineering Intern at Hewlett-Packard (HP), Taipei.
+I finished my undergraduate study in National Taiwan University (NTU), majored in Electrical Engineering. I was also an Electrical Engineering Intern at Hewlett-Packard (HP), Taipei. During my one-year internship, I was fortunate enough to [patent](https://tinyurl.com/4j42s3bx) my work as first author.
 
 Latest News 
 ======
