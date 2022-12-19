@@ -13,6 +13,8 @@ author_profile: true
 
 ## Works done during my Ph.D.
 
+**Yi-Chien Lin**, Viktor Prasanna, *"HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture"*, IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023
+
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_Accelerating GNN Training on CPU+Multi-FPGA Heterogeneous Platform_"](http://www.carla22.org/pages/schedule/programbyactivity.html#hpc-track), The Latin America High Performance Computing (CARLA), 2022
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform_"](https://dl.acm.org/doi/10.1145/3490422.3502359), International Symposium on Field-Programmable Gate Arrays (FPGA), 2022
@@ -21,6 +23,6 @@ author_profile: true
 
 ## Works done during my undergrad
 
-**Yi-Chien Lin**, Chih-hung Lin, Ling-Yu Wu, Chih-shiuan Lee, ["_Face Orientation-Based Cursor Positioning on Display Screens_"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021145855), US Patent WO/2021/145855, 2021
+**Yi-Chien Lin**, Chih-Hung Lin, Ling-Yu Wu, Chih-Shiuan Lee, ["_Face Orientation-Based Cursor Positioning on Display Screens_"](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021145855) (WO Patent No. WO/2021/145855), WIPO Patent, 2021
 
 Jing-Ping Wu, **Yi-Chien Lin**, Ying-Wei Wu, Shih-Wei Hsieh, Ching-Hsuan Tai, and Yi-Chang Lu., ["_A Memory-Efficient Accelerator for DNA Sequence Alignment with Two-Piece Affine Gap Tracebacks_"](https://ieeexplore.ieee.org/abstract/document/9401771/), IEEE International Symposium on Circuits and Systems (ISCAS), 2021
