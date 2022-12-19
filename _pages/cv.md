@@ -42,7 +42,15 @@ Awards
 
 Skills
 ======
-* Verilog/SystemVerilog
-* High-level Synthesis (HLS)
-* C/C++
-* Parallel Programming (Pthread, MPI, CUDA)
+* Hardware
+  * Verilog/SystemVerilog
+  * High-level Synthesis (HLS)
+  * oneAPI
+* Software
+  * C/C++
+  * Python
+* Parallel Programming 
+  * Pthreads
+  * OpenMP
+  * MPI
+  * CUDA
