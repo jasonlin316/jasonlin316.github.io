@@ -21,7 +21,7 @@ In addition to research interests, I'm also into video editing and photography. 
 
 Latest News 
 ======
-**Jan 10, 2022**: I will be serving as the Registration Chair in IEEE FCCM 2023, see you in LA.
+**Jan 10, 2022**: I will be serving as the Registration Chair in [IEEE FCCM 2023](https://www.fccm.org), see you in LA.
 
 **Dec 18, 2022**: Our work HyScale-GNN has been accepted to IPDPS 2023 during the first round decesion (~10% acceptance rate)!
 
