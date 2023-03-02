@@ -13,7 +13,7 @@ author_profile: true
 
 ## Works done during my Ph.D.
 
-**Yi-Chien Lin**, Viktor Prasanna, "*HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture*," IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023
+**Yi-Chien Lin**, Viktor Prasanna, ["*HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture*,"](https://arxiv.org/abs/2303.00158) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_Accelerating GNN Training on CPU+Multi-FPGA Heterogeneous Platform_,"](https://link.springer.com/chapter/10.1007/978-3-031-23821-5_2) The Latin America High Performance Computing (CARLA), 2022
 

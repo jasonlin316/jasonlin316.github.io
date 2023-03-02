@@ -23,7 +23,7 @@ Latest News
 ======
 **Jan 10, 2022**: I will be serving as the Registration Chair in [IEEE FCCM 2023](https://www.fccm.org), see you in LA.
 
-**Dec 18, 2022**: Our work HyScale-GNN has been accepted to IPDPS 2023 during the first round decesion (~10% acceptance rate)!
+**Dec 18, 2022**: Our work [HyScale-GNN](https://arxiv.org/abs/2303.00158) has been accepted to IPDPS 2023 during the first round decesion (~10% acceptance rate)!
 
 **Nov 23, 2021**: Our work [HP-GNN](https://dl.acm.org/doi/10.1145/3490422.3502359) has been accepted to ACM FPGA 2022. 
 
