@@ -27,7 +27,7 @@ Research Experience
 
 Work Experience/ Services
 ======
-* Registration Chair, The 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM)
+* Registration Chair, International Symposium On Field-Programmable Custom Computing Machines (May 2023)
 
 * Reviewer
   * IEEE International Parallel & Distributed Processing Symposium (IPDPS)
