@@ -20,14 +20,20 @@ Education
 Research Experience
 ======
 * Graduate Researcher (2020 - Present)
-  * Worked with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on hardware acceleration of Graph Neural Networks training on heterogeneous platform.
+  * Working with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on Graph Neural Network (GNN) training acceleration on heterogeneous platforms.
 * Undergraduate Researcher (2019 - 2020)
   * Worked with Professor [Yi-Chang Lu](https://sites.google.com/view/ldps-giee-ntu/home/advisor/) on hardware accelerator for DNA sequence alignment. [Link](https://github.com/jasonlin316/Systolic-Array-for-Smith-Waterman) 
   * Worked with Professor [Tzi-Dar Chiueh](http://dodger.ee.ntu.edu.tw/faculty.htm) on digital circuit design. Taped-out a RISC-V CPU. [Link](https://github.com/jasonlin316/RISC-V-CPU)
 
 Work Experience/ Services
 ======
-* Reviewer: IPDPS '23, FPGA '23, CSUR '22, ASAP '22, FPT '22, SC '22, TCSVT '22, FPGA '22, SC '21.
+* Registration Chair, The 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM)
+
+* Reviewer
+  * IEEE International Parallel \& Distributed Processing Symposium (IPDPS)
+  * ACM/SIGDA International Symposiumon Field-Programmable Gate Arrays (FPGA)
+  * International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
+  * IEEE International Conferenceon Application-specific Systems, Architectures, andP rocessors (ASAP)
 
 * Teaching Assistant
   * EE451 Parallel and Distributed Computation (Fall 2022, Spring 2022)
