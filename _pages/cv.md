@@ -30,7 +30,7 @@ Work Experience/ Services
 * Registration Chair, The 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM)
 
 * Reviewer
-  * IEEE International Parallel \& Distributed Processing Symposium (IPDPS)
+  * IEEE International Parallel & Distributed Processing Symposium (IPDPS)
   * ACM/SIGDA International Symposiumon Field-Programmable Gate Arrays (FPGA)
   * International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
   * IEEE International Conferenceon Application-specific Systems, Architectures, andP rocessors (ASAP)
