@@ -20,7 +20,7 @@ Education
 Research Experience
 ======
 * Graduate Researcher (2020 - Present)
-  * Working with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on Graph Neural Network (GNN) training acceleration on heterogeneous platforms.
+  * Working with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on Graph Neural Network (GNN) acceleration on heterogeneous platforms.
 * Undergraduate Researcher (2019 - 2020)
   * Worked with Professor [Yi-Chang Lu](https://scholar.google.com/citations?user=Dgjj_jIAAAAJ&hl=en) on hardware accelerator for DNA sequence alignment. [Link](https://github.com/jasonlin316/Systolic-Array-for-Smith-Waterman) 
   * Worked with Professor [Tzi-Dar Chiueh](https://scholar.google.com/citations?user=xi6qo24AAAAJ&hl=en) on digital circuit design. Taped-out a RISC-V CPU. [Link](https://github.com/jasonlin316/RISC-V-CPU)
