@@ -23,6 +23,8 @@ In addition to research interests, I'm also into video editing and photography. 
 
 Latest News 
 ======
+**Dec 19, 2023**: Our work ARGO has been accepted to IPDPS 2024 during the first round decesion! Special thanks to Intel Research Lab for the collaboration.
+
 **Nov 1, 2023**: Passed my qualify exam!
 
 **Jan 10, 2022**: I will be serving as the Registration Chair in [IEEE FCCM 2023](https://www.fccm.org), see you in LA.
