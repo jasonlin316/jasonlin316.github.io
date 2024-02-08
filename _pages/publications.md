@@ -14,7 +14,7 @@ author_profile: true
 ## Works done during my Ph.D.
 
 
-**Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, Gopi Krishna Jha, Viktor Prasanna, ["*ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor,"](https://arxiv.org/abs/2402.03671) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2024
+**Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, Gopi Krishna Jha, Viktor Prasanna, ["*ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor*,"](https://arxiv.org/abs/2402.03671) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2024
 
 **Yi-Chien Lin**, Viktor Prasanna, ["*HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture*,"](https://arxiv.org/abs/2303.00158) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023
 
