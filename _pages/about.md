@@ -23,7 +23,7 @@ In addition to research interests, I'm also into video editing and photography. 
 
 Latest News 
 ======
-**Dec 19, 2023**: Our work ARGO has been accepted to IPDPS 2024 during the first round decesion! Special thanks to Intel Research Lab for the collaboration.
+**Dec 19, 2023**: Our work [ARGO](https://arxiv.org/abs/2402.03671) has been accepted to IPDPS 2024 during the first round decesion! Special thanks to Intel Labs for the collaboration.
 
 **Nov 1, 2023**: Passed my qualify exam!
 
