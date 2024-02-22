@@ -16,6 +16,8 @@ author_profile: true
 
 **Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, Gopi Krishna Jha, Viktor Prasanna, ["*ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor*,"](https://arxiv.org/abs/2402.03671) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2024
 
+**Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform_,"](https://arxiv.org/abs/2303.01568) IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
+
 **Yi-Chien Lin**, Viktor Prasanna, ["*HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture*,"](https://arxiv.org/abs/2303.00158) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_Accelerating GNN Training on CPU+Multi-FPGA Heterogeneous Platform_,"](https://link.springer.com/chapter/10.1007/978-3-031-23821-5_2) The Latin America High Performance Computing (CARLA), 2022
