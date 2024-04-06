@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 **Yi-Chien Lin**, Gangda Deng, Viktor Prasanna, ["_A Unified CPU-GPU Protocol for GNN Training_,"](https://arxiv.org/abs/2403.17092) 21st ACM International Conference on Computing Frontiers (CF), 2024
 
-**Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, Gopi Krishna Jha, Viktor Prasanna, ["_ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor_,"](https://arxiv.org/abs/2402.03671) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2024
+**Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, Gopi Krishna Jha, Viktor Prasanna, ["_ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor_,"](https://arxiv.org/abs/2402.03671) IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2024 **[Best Paper Nominee]**
 
 **Yi-Chien Lin**, Bingyi Zhang, Viktor Prasanna, ["_HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform_,"](https://arxiv.org/abs/2303.01568) IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
 
