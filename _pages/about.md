@@ -22,6 +22,7 @@ In addition to research interests, I'm also into video editing and photography. 
 ![hobby](../images/hobby.png)
 
 # Latest News
+**May 20, 2024**: Started my internship at Microsoft Research.
 
 **Apr 6, 2024**: [ARGO](https://arxiv.org/abs/2402.03671) is nominated as the best paper of IPDPS 2024 (4 out of 88 papers). ARGO is now publicly available on the [Deep Grap Library](https://github.com/dmlc/dgl/tree/master/examples/pytorch/argo).
 
@@ -30,7 +31,3 @@ In addition to research interests, I'm also into video editing and photography. 
 **Nov 1, 2023**: Passed my qualify exam!
 
 **Jan 10, 2022**: I will be serving as the Registration Chair in [IEEE FCCM](https://www.fccm.org) 2023, see you in LA.
-
-**Dec 18, 2022**: Our work [HyScale-GNN](https://arxiv.org/abs/2303.00158) has been accepted to IPDPS 2023 during the first round decesion (~10% acceptance rate)!
-
-**Nov 23, 2021**: Our work [HP-GNN](https://dl.acm.org/doi/10.1145/3490422.3502359) has been accepted to ACM FPGA 2022.

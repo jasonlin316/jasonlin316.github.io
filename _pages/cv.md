@@ -19,15 +19,16 @@ Education
 
 Research Experience
 ======
-* Graduate Researcher (2020 - Present)
-  * Working with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on Graph Neural Network (GNN) acceleration on heterogeneous platforms.
-* Undergraduate Researcher (2019 - 2020)
-  * Worked with Professor [Yi-Chang Lu](https://scholar.google.com/citations?user=Dgjj_jIAAAAJ&hl=en) on hardware accelerator for DNA sequence alignment. [Link](https://github.com/jasonlin316/Systolic-Array-for-Smith-Waterman) 
-  * Worked with Professor [Tzi-Dar Chiueh](https://scholar.google.com/citations?user=xi6qo24AAAAJ&hl=en) on digital circuit design. Taped-out a RISC-V CPU. [Link](https://github.com/jasonlin316/RISC-V-CPU)
+* Graduate Researcher (Aug. 2020 – Present)
+  * Working with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on developing ML Systems for Graph Neural Network on emerging heterogeneous platforms.
+* Research Intern (May 2024 – Aug. 2024)
+  * Working with the AI Framework Team on developing ML Systems for Multimodal Large Language Models.
 
 Work Experience/ Services
 ======
 * Registration Chair, International Symposium On Field-Programmable Custom Computing Machines (May 2023)
+
+* Student Volunteer, IEEE International Parallel \& Distributed Processing Symposium (May 2023)
 
 * Reviewer
   * IEEE International Parallel & Distributed Processing Symposium (IPDPS)
@@ -43,6 +44,8 @@ Work Experience/ Services
 
 Awards
 ======
+* 2024 SRC AIHW Annual Review Best Presentation Award
+* 2024 IPDPS Best Poster Award (Honorable Mention)
 * 2020 Viterbi School of Engineering Fellowship
 * 2019 NTUEE Undergraduate Innovation Award: Third Prize
 
