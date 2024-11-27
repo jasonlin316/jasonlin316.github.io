@@ -22,7 +22,7 @@ Research Experience
 * Graduate Researcher (Aug. 2020 – Present)
   * Working with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on developing ML Systems for Graph Neural Network on emerging heterogeneous platforms.
 * Research Intern (May 2024 – Aug. 2024)
-  * Working with the AI Framework Team on developing ML Systems for Multimodal Large Language Models.
+  * Working with the AI Framework Team on developing ML Systems for serving Large Language Models.
 
 Work Experience/ Services
 ======
@@ -44,6 +44,7 @@ Work Experience/ Services
 
 Awards
 ======
+* 2024 Captial One Fellow
 * 2024 SRC AIHW Annual Review Best Presentation Award
 * 2024 IPDPS Best Poster Award (Honorable Mention)
 * 2020 Viterbi School of Engineering Fellowship
