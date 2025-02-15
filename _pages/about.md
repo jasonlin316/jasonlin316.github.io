@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in [FPGA/Parallel Computing Lab](https://fpga.usc.edu) at University of Southern California, advised by [Prof. Prasanna](https://sites.usc.edu/prasanna/).
-I will be joining the [AI System Co-Design team](https://aisystemcodesign.github.io) at Meta this Summer.
+I will be joining the [AI System Co-Design team](https://aisystemcodesign.github.io) at Meta as a Research Scientist this Summer.
 My recent work focuses on developing Automated ML Systems, such as an auto-tuning runtime system for GNN training, and automatic model parallelization for LLM serving. 
 I was also a Research Intern at Microsoft AI Framework team, where I worked on optimizing distributed inferencing for LLM serving.
 
