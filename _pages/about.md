@@ -17,7 +17,7 @@ I received my B.S. in Electrical Engineering from National Taiwan University (NT
 
 In addition to research interests, I'm also into video editing and photography. Check out my [vlogs](https://youtube.com/playlist?list=PLOgPUn4uH3eyITpOyIsteJNxuKTRnYb6v) and [photos](https://www.flickr.com/photos/194564724@N08/albums).
 
-![hobby](../images/hobby.png)
+![hobby](../images/grad.jpg)
 
 # Latest News
 **Jun 24, 2025**: Defended my dissertation! 
