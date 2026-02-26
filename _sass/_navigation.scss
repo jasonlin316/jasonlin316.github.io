@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #fff;
+        color: $primary-text-color;
         background: $primary-color;
       }
 
@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: $primary-color;
-    color: #fff;
+    color: $primary-text-color;
     cursor: pointer;
   }
 
@@ -334,13 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: $primary-text-color;
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: $primary-text-color;
     }
   }
 }
@@ -380,7 +380,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: $primary-text-color;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
