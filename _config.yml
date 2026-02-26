@@ -11,7 +11,7 @@ title                    : "Home"
 logo                     : "logo.png"
 title_separator          : "-"
 name                     : &name "Yi-Chien Lin"
-description              : &description "Jason's Homepage"
+description              : &description "Research Scientist at Meta working on AI-system co-design."
 url                      : https://jasonlin316.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonlin316.github.io"
@@ -69,8 +69,13 @@ og_image                 :  "teaser.png"
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Person" # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : "Yi-Chien Lin" # If the user or organization name differs from the site's name
+  links:
+    - "https://github.com/jasonlin316"
+    - "https://www.linkedin.com/in/jasonlin316"
+    - "https://scholar.google.com/citations?user=V5aCXsUAAAAJ&hl=zh-TW&authuser=1"
+    - "https://www.flickr.com/photos/194564724@N08/albums"
+    - "https://youtube.com/playlist?list=PLOgPUn4uH3eyITpOyIsteJNxuKTRnYb6v"
 
 
 # Analytics
@@ -86,12 +91,12 @@ author:
   avatar           : "profile.jpg"
   bio              : "Just call me Jason."
   location         : 
-  employer         :
+  employer         : "Meta"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V5aCXsUAAAAJ&hl=zh-TW&authuser=1"
   email            : "yichienl@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://jasonlin316.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
