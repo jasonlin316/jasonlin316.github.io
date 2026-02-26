@@ -53,20 +53,20 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #004643;
-$background-color           : #004643;
+$body-color                 : #f9f4ef;
+$background-color           : #f9f4ef;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
-$text-color                 : #abd1c6;
-$headline-color             : #fffffe;
-$border-color               : mix(#fff, $background-color, 20%);
+$text-color                 : #716040;
+$headline-color             : #020826;
+$border-color               : #020826;
 
-$primary-color              : #f9bc60;
-$primary-text-color         : #001e1d;
+$primary-color              : #8c7851;
+$primary-text-color         : #fffffe;
 $success-color              : #62c462;
 $warning-color              : #f89406;
-$danger-color               : #e16162;
-$info-color                 : #abd1c6;
+$danger-color               : #f25042;
+$info-color                 : #716040;
 
 /* brands */
 $behance-color              : #ffffff;
@@ -93,11 +93,11 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $primary-color !default;
-$link-color-hover           : mix(#fff, $link-color, 20%) !default;
-$link-color-visited         : mix(#fff, $link-color, 10%) !default;
+$link-color-hover           : mix(#000, $link-color, 20%) !default;
+$link-color-visited         : mix(#000, $link-color, 10%) !default;
 $masthead-link-color        : $headline-color !default;
 $masthead-link-color-hover  : $primary-color !default;
-$navicon-link-color-hover   : mix(#fff, $primary-color, 35%) !default;
+$navicon-link-color-hover   : mix(#000, $primary-color, 35%) !default;
 
 
 /*
