@@ -25,7 +25,10 @@ Experience
   * Help evaluate next-generation LLM architectures through performance modeling, including achievable MFU estimates and training-step time breakdowns.
 * Research Intern, Microsoft (May 2024 - Aug. 2024)
   * Worked with the AI Framework Team on automatic model parallelization for LLM serving systems.
-  * Developed APEX, an LLM serving simulator for parallel execution planning.
+  * Developed [APEX](https://github.com/microsoft/apex_plus), an LLM serving simulator for parallel execution planning.
+* Electrical Engineering R&D Intern at Hewlett-Packard (HP) (July 2019 - July 2020)
+  * Worked with the commerical notebook team. 
+  * Filed a [patent]((https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021145855)) on a novel way to interface with your laptop.
 
 Services
 ======
@@ -33,7 +36,7 @@ Services
 
 * Registration Chair, International Symposium on Field-Programmable Custom Computing Machines (May 2023)
 
-* Student Volunteer, IEEE International Parallel \& Distributed Processing Symposium (May 2023)
+* Student Volunteer, IEEE International Parallel & Distributed Processing Symposium (May 2023)
 
 * Reviewer
   * IEEE International Parallel & Distributed Processing Symposium (IPDPS)
@@ -44,8 +47,6 @@ Services
 * Teaching Assistant
   * EE451 Parallel and Distributed Computation (Fall 2022, Spring 2022)
   * EE457 Computer Systems Organization (Fall 2021)
-
-* Electrical Engineering R&D Intern at HP, Taipei (July 2019 - July 2020)
 
 Awards
 ======
