@@ -12,9 +12,9 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% include base_path %}
 
 ## Works done during my Ph.D.
-1. **Yi-Chien Lin**, Ronald Pineda, and Fanny Nina Paravecino. ["_APEX: An Extensible and Dynamism-Aware Simulator for Automated Parallel Execution in LLM Serving_,"](https://arxiv.org/abs/2411.17651) Journal of Parallel and Distributed Computing (JPDC), 2026 **[To Appear]**.
+1. **Yi-Chien Lin**, Ronald Pineda, and Fanny Nina Paravecino. ["_APEX: An Extensible and Dynamism-Aware Simulator for Automated Parallel Execution in LLM Serving_,"](https://arxiv.org/abs/2411.17651) Journal of Parallel and Distributed Computing (JPDC), 2026. [[code](https://github.com/microsoft/apex_plus)]
 
-2. **Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, and Viktor Prasanna. "_ARGO+: Achieving Multi-Level Scalable GNN Training on Distributed Multi-Core Platform_," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026.
+2. **Yi-Chien Lin**, Yuyang Chen, Sameh Gobriel, Nilesh Jain, and Viktor Prasanna. ["_ARGO+: Achieving Multi-Level Scalable GNN Training on Distributed Multi-Core Platform_,"](https://ieeexplore.ieee.org/document/11540390/) IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026.
 
 3. **Yi-Chien Lin**, Haoyang Fan, Sameh Gobriel, Nilesh Jain, and Viktor K. Prasanna. ["_Accelerating GNN Inference via Automated Parallel Execution on Edge Heterogeneous Platforms_,"](https://ieeexplore.ieee.org/abstract/document/11264683) International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2025.
 
