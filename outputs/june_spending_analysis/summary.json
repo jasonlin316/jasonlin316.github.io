@@ -1,0 +1,31 @@
+{
+  "transactions": 92,
+  "purchases": 85,
+  "gross_purchases": 3826.43,
+  "credits": -105.27,
+  "payments": -3079.59,
+  "by_category": {
+    "Shopping": 1544.19,
+    "Pets": 859.11,
+    "Restaurants & Coffee": 694.1,
+    "Insurance": 212.11,
+    "Groceries": 118.55,
+    "Misc.": 103.8,
+    "Education & Research": 81.05,
+    "Transportation": 66.49,
+    "Entertainment": 65.56,
+    "Subscriptions & Software": 53.26,
+    "Utilities & Bills": 28.21
+  },
+  "by_month": {
+    "2026-05": 1478.92,
+    "2026-06": 2347.51
+  },
+  "by_card": {
+    "Chase 4592": 1602.13,
+    "Chase 6910": 980.21,
+    "Chase 0841": 609.5,
+    "Amex 51000": 352.06,
+    "Bank of America 5012": 282.53
+  }
+}

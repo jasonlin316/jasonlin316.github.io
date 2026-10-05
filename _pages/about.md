@@ -19,6 +19,14 @@ In addition to research interests, I'm also into video editing and photography. 
 
 ![cover](../images/cover.jpg)
 
+# Selected Research
+
+**ARGO** — An auto-tuning runtime system for scalable GNN training on multi-core processors. Speeds up DGL and PyG by up to 5x and is now integrated into the Deep Graph Library. IPDPS 2024 **[Best Paper Nominee]**. [[paper](https://arxiv.org/abs/2402.03671)] [[code](https://github.com/jasonlin316/ARGO)]
+
+**APEX** — An extensible and dynamism-aware simulator for automated parallel execution in LLM serving. Journal of Parallel and Distributed Computing (JPDC), 2026. [[paper](https://arxiv.org/abs/2411.17651)]
+
+**ARGO+** — Achieving multi-level scalable GNN training on distributed multi-core platforms. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026.
+
 # Latest News
 
 **Jul 21, 2025**: Started working at Meta.
